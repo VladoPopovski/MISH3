@@ -1,13 +1,9 @@
-# MIS HOMEWORK 2
+# MIS HOMEWORK 3
 
 Sliki:
 
-![img_2.png](img_2.png)
 
-![img_3.png](img_3.png)
-
-![img_4.png](img_4.png)
-
-![img_5.png](img_5.png)
-
-![img_6.png](img_6.png)
+![Screenshot](images/p1.png)
+![Screenshot](images/p2.png)
+![Screenshot](images/p3.png)
+![Screenshot](images/p4.png)
